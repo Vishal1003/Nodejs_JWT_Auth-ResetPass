@@ -1,7 +1,7 @@
 # Nodejs_JWT_Auth
 
 
-### This repo is an example of Login-SignUP with NODE.js AND MYSQL and JWT(JSON Web Token) Authentication. 
+### This repo is an example of Login-SignUP with NODE.js, MYSQL and JWT(JSON Web Token) Authentication. 
 ## Setting up Project 
 
 * Open Terminal and execute
