@@ -24,7 +24,7 @@
 
 * Create the users table using :
 
-  `use cumsdbms;
+  `use databasename;
 create table users(
     uid int not null unique auto_increment,
     username varchar(255) not null,
