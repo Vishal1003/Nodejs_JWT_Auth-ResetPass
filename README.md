@@ -6,7 +6,7 @@
 
 * Open Terminal and execute
 
- `git clone  https://github.com/akhilpy/Node-MySQL-JWT-Signup-Login-API.git`
+ `git clone  https://github.com/Vishal1003/Nodejs_JWT_Auth.git`
  
  ` cd YourProjectFolderName`
  
