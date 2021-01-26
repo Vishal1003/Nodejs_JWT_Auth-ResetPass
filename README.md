@@ -18,18 +18,18 @@
 * For setting up mail-gun Go to official doc of mail-gun. Sign up and replace your credentials here.
 
 * Create following env variables (in order to connect to database and use JWT) :
-    DB_HOST
-    DB_PASS
-    DB_USER
-    JWT_SECRET
-    JWT_EXPIRE
+    *DB_HOST
+    *DB_PASS
+    *DB_USER
+    *JWT_SECRET
+    *JWT_EXPIRE
 
     _reset-password_
 
-    URL
-    RESET_PASSWORD_KEY
-    DOMAIN_NAME
-    MAILGUN_API_KEY
+    *URL
+    *RESET_PASSWORD_KEY
+    *DOMAIN_NAME
+    *MAILGUN_API_KEY
  
 * Create the database using following query in mysql :
   `CREATE DATABASE databasename;`
